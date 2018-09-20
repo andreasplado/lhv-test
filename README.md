@@ -1,6 +1,6 @@
-# lhv-test
-LHV Test
+# Phobetic search.
 
+Phobetic search done in Java
 
 To run project you need to add reference to the commons-codec-1.10.jar
 
