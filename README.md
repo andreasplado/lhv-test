@@ -1,4 +1,4 @@
-# Phobetic search.
+# Phobetic search
 
 Phobetic search done in Java
 
